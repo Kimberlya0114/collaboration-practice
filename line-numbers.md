@@ -10,7 +10,7 @@
 #### 10
 #### 11 GitHub is intresting and fun.
 #### 12
-#### 13 The best color is purple.
+#### 13 
 #### 14
 #### 15 GitHub is both a free and helpful website. 
 #### 15 
