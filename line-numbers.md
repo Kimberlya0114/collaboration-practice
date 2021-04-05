@@ -2,7 +2,7 @@
 #### 2
 #### 3 Bob was here!
 #### 4
-#### 5 Grace was here! 
+#### 5 Grace was here!
 #### 6
 #### 7 Kimberly was here!
 #### 8
@@ -12,7 +12,7 @@
 #### 12
 #### 13 The best color is purpl.
 #### 14
-#### 15
+#### 15 GitHub is a free website. 
 #### 16
 #### 17
 #### 18
