@@ -10,9 +10,9 @@
 #### 10
 #### 11 GitHub is intresting and fun.
 #### 12
-#### 13 The best color is purpl.
+#### 13 The best color is purple.
 #### 14
-#### 15
+#### 15 Github can be helpful.
 #### 16
 #### 17
 #### 18
